@@ -17,7 +17,7 @@ DOI : 10.7735/ksmte.2020.29.3.210<br><br>
 <br><br>
 
 
-FFT, 스펙트로그램 분석 관련된 부분은 adafruit 사에서 제공하는 코드를 이용했습니다.
+FFT, 스펙트로그램 분석 관련된 부분은 adafruit 사에서 제공하는 코드를 이용했습니다.<br>
 https://learn.adafruit.com/fft-fun-with-fourier-transforms/software
 
 <Br><br>
